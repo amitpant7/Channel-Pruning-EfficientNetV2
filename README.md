@@ -4,5 +4,4 @@ I pruned 88% of channels of efficientNetV2 using LAMP pruning resulting 14x samm
 After that I replaced all the SiLU and sigmoid layers with Hard Swish and Hardsigmoid as the model is to be deployed in FPGA.
 
 
-Notebook: [https://www.kaggle.com/code/amitpant7/channel-pruning-of-effficientnet-upto-88-cifar#Final-Pruned-model-visualization
-](https://www.kaggle.com/code/amitpant7/channel-pruning-of-effficientnet-upto-88-cifar)https://www.kaggle.com/code/amitpant7/channel-pruning-of-effficientnet-upto-88-cifar
+Notebook: https://www.kaggle.com/code/amitpant7/channel-pruning-of-effficientnet-upto-88-cifar 
