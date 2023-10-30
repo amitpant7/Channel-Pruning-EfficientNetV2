@@ -22,6 +22,8 @@ with 14 times fewer parameters and 2.5 times fewer MAC operations, all while
 incurring just a modest 2% decrease in accuracy. These outcomes not only underscore 
 the effectiveness of channel pruning but also emphasize the exciting potential for the 
 development of leaner and faster deep learning models that can be deployed in edge 
-devices without significant sacrifices in performance
+devices without significant sacrifices in performance.
+
+Pruned Model : https://github.com/amitpant7/Channel-Pruning-EfficientNetV2/blob/main/EfficientnetV2_S_hswish87.pth
 
 This was done as a part of a major project which involved pruning and quantizing efficientnetV3 and then implementing it on FPGA
