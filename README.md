@@ -5,7 +5,7 @@ I pruned 88% of channels of efficientNetV2 using LAMP pruning resulting 14x samm
 After that I replaced all the SiLU and sigmoid layers with Hard Swish and Hardsigmoid as the model is to be deployed in FPGA.
 
 
-Notebook: https://www.kaggle.com/code/amitpant7/channel-pruning-of-effficientnet-upto-88-cifar 
+Kaggle Notebook:  [Link](https://www.kaggle.com/code/amitpant7/channel-pruning-of-effficientnet-upto-88-cifar) 
 
 
 
@@ -24,9 +24,9 @@ the effectiveness of channel pruning but also emphasize the exciting potential f
 development of leaner and faster deep learning models that can be deployed in edge 
 devices without significant sacrifices in performance.
 
-Pruned Model : https://github.com/amitpant7/Channel-Pruning-EfficientNetV2/blob/main/EfficientnetV2_S_hswish87.pth
+Pruned Model:  [model.pth](https://github.com/amitpant7/Channel-Pruning-EfficientNetV2/blob/main/EfficientnetV2_S_hswish87.pth)
 
 This was done as a part of a major project which involved pruning and quantizing efficientnetV2 and then implementing it on FPGA
 
 ### Further Work 
-Quantization of Pruned Model: https://github.com/amitpant7/Quantizing-Efficientnetv2-using-Vitis-AI-Pytorch/tree/main 
+Quantization of Pruned Model:  [Github Repo](https://github.com/amitpant7/Quantizing-Efficientnetv2-using-Vitis-AI-Pytorch/tree/main) 
