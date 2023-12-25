@@ -26,7 +26,7 @@ devices without significant sacrifices in performance.
 
 Pruned Model : https://github.com/amitpant7/Channel-Pruning-EfficientNetV2/blob/main/EfficientnetV2_S_hswish87.pth
 
-This was done as a part of a major project which involved pruning and quantizing efficientnetV3 and then implementing it on FPGA
+This was done as a part of a major project which involved pruning and quantizing efficientnetV2 and then implementing it on FPGA
 
 ### Further Work 
 Quantization of Pruned Model: https://github.com/amitpant7/Quantizing-Efficientnetv2-using-Vitis-AI-Pytorch/tree/main 
